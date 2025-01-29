@@ -1,0 +1,11 @@
+E:\ESOFT\Skills International 2.1\Skills International 2.1\bin\Debug\Skills International 2.1.exe.config
+E:\ESOFT\Skills International 2.1\Skills International 2.1\bin\Debug\Skills International 2.1.exe
+E:\ESOFT\Skills International 2.1\Skills International 2.1\bin\Debug\Skills International 2.1.pdb
+E:\ESOFT\Skills International 2.1\Skills International 2.1\obj\Debug\Skills International 2.1.csproj.AssemblyReference.cache
+E:\ESOFT\Skills International 2.1\Skills International 2.1\obj\Debug\Skills_International_2._1.Properties.Resources.resources
+E:\ESOFT\Skills International 2.1\Skills International 2.1\obj\Debug\Skills International 2.1.csproj.GenerateResource.cache
+E:\ESOFT\Skills International 2.1\Skills International 2.1\obj\Debug\Skills International 2.1.csproj.CoreCompileInputs.cache
+E:\ESOFT\Skills International 2.1\Skills International 2.1\obj\Debug\Skills International 2.1.exe
+E:\ESOFT\Skills International 2.1\Skills International 2.1\obj\Debug\Skills International 2.1.pdb
+E:\ESOFT\Skills International 2.1\Skills International 2.1\obj\Debug\Skills_International_2._1.Form1.resources
+E:\ESOFT\Skills International 2.1\Skills International 2.1\obj\Debug\Skills_International_2._1.Form2.resources
